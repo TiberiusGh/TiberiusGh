@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Tiberius!
 
 - 🔭 Developer | Tech Enthusiast
-- 🌱 Exploring computer wizardry
+- 🧑🏻‍💻 Exploring computer wizardry
 - 📫 Connect with me: https://www.linkedin.com/in/tiberius-gh/
 
 <!--
