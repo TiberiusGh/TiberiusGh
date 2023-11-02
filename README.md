@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Tiberius!
+# 👋🏼 Hey, I'm Tiberius!
 
 - 🔭 Developer | Tech Enthusiast
 - 🧑🏻‍💻 Exploring computer wizardry
