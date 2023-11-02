@@ -1,4 +1,8 @@
-### Hej! 👋
+# 👋 Hey, I'm Tiberius!
+
+- 🔭 Developer | Tech Enthusiast
+- 🌱 Exploring computer wizardry
+- 📫 Connect with me: https://www.linkedin.com/in/tiberius-gh/
 
 <!--
 **TiberiusGh/TiberiusGh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
