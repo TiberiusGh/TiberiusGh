@@ -2,7 +2,7 @@
 
 - 🔭 Tech Enthusiast
 - 🧑🏻‍💻 Exploring computer wizardry
-- 📫 My LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/tiberius-gh/)
+- 📫 My LinkedIn profile: [here](https://www.linkedin.com/in/tiberius-gh/)
 
 <!--
 **TiberiusGh/TiberiusGh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
