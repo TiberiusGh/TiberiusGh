@@ -5,4 +5,4 @@
 
 ## 🚀 Check Out My Work
 
-- [Memora](https://github.com/orgs/Memora-Tiberiusgh/dashboard) - A flashcard application 
+- [Memora](https://github.com/orgs/Memora-Tiberiusgh) - A flashcard application 
